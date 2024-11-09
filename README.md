@@ -1,1 +1,1 @@
-# mean-todo-app
+# mern-todo-app
